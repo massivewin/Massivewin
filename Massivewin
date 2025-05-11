@@ -49,7 +49,7 @@
         <button onclick="toggleModal()" class="bg-goldenrod text-white px-6 py-3 rounded-lg text-lg font-semibold shadow-md hover:opacity-90 transition">
           Start Game
         </button>
-        <a href="/leaderboard" class="border-2 border-white text-white px-6 py-3 rounded-lg text-lg hover:bg-white hover:text-goldenrod transition">
+        <a href="#" class="border-2 border-white text-white px-6 py-3 rounded-lg text-lg hover:bg-white hover:text-goldenrod transition">
           Leaderboard
         </a>
       </div>
